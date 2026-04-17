@@ -3,8 +3,8 @@ class GithubTracker < Formula
 
   desc "A TUI application for tracking GitHub PRs"
   homepage "https://github.com/Kintull/gihub-pr-poller"
-  url "https://github.com/Kintull/gihub-pr-poller/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "43b86d5acb9ed54d5671f79c788d2f7037388489f7fa53bca39bb45785cfbc71"
+  url "https://github.com/Kintull/gihub-pr-poller/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "bca44111962b2d206a32b7d5de793ebceb43dd747e06252398d0e89c187b387a"
   license "MIT"
 
   depends_on "python@3.12"
