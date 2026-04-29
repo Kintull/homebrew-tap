@@ -1,9 +1,9 @@
 class GithubTracker < Formula
   desc "A TUI application for tracking GitHub PRs"
   homepage "https://github.com/Kintull/gihub-pr-poller"
-  url "https://github.com/Kintull/gihub-pr-poller/releases/download/v1.0.6/github-tracker-macos-arm64.tar.gz"
-  sha256 "23999c19e668cdb1cc48223c48959e0d57b87413f02559e0b733f918fd40e5b7"
-  version "1.0.6"
+  url "https://github.com/Kintull/gihub-pr-poller/releases/download/v1.0.7/github-tracker-macos-arm64.tar.gz"
+  sha256 "71dc6a60129e2541299fedf36d9cac84cda7ca1b098caacf563b1fbc68250dfc"
+  version "1.0.7"
   license "MIT"
 
   def install
